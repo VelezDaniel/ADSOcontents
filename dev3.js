@@ -1,0 +1,3 @@
+encodeURIComponent;
+matchMedia;
+DOMMatrix;
